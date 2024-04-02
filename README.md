@@ -8,7 +8,7 @@
 </p>
 
 <div>
-    <h2><samp>&gt; Experiência</samp></h2>
+    <h2><samp>&gt; Linguagens</samp></h2>
     <img src="https://i.pinimg.com/originals/d3/60/f1/d360f1827f7996e9e0a3ccb6f584c848.gif" align="right" height="180px">
     <br>
     <p align="center">
