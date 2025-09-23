@@ -21,6 +21,21 @@
 <br>
 <br>
 <br>
+
+<h2><samp>&gt; Estatísticas do GitHub</samp></h2>
+<p align="center">
+  <!-- Stats gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthconf&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green"/>
+  <!-- Linguagens -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthconf&layout=compact&langs_count=8&theme=blue-green"/>
+</p>
+
+
+<p align="center">
+  <!-- Gráfico de atividade -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthconf&theme=react-dark&hide_border=false&area=true"/>
+</p>
+
 <div align="left">
   <h2><samp>&gt; Contatos</samp></h2>
   <img src =  "https://i.pinimg.com/originals/89/8f/bd/898fbd8a5d79c90be4732525a122a96f.gif" align = "right" height = "180px">
