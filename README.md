@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arthconf&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+ 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthconf&layout=compact&langs_count=8&theme=blue-green"/
 </p>
 
