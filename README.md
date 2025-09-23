@@ -2,11 +2,6 @@
 
 ###
 
-<p align="center">
- 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthconf&layout=compact&langs_count=8&theme=blue-green"/
-</p>
-
 
 <div>
     <h2><samp>&gt; Linguagens</samp></h2>
