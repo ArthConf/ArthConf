@@ -3,7 +3,8 @@
 ###
 
 <p align="center">
-<img height="140px" src="https://bad-apple-github-readme.vercel.app/api?username=arthconf&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff"/>
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=arthconf&show_icons=true&theme=blue-green"/>
+
  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthconf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false"  alt="languages graph"  alt="languages graph"/>
 </p>
 
